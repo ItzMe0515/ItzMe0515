@@ -2,7 +2,7 @@
 *Also known as ItzMe*
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Applied+Computer+Science+Student;System+%26+Network+Administrator;Self-Hosting+Enthusiast;Cloud+Technology+Passionate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Applied+Computer+Science+Student;System+%26+Network+Administrator;Self-Hosting+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -32,7 +32,6 @@ I'm passionate about **self-hosting** various applications and services. I run a
 ### Frameworks & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -106,8 +105,6 @@ Multiple Docker containers and VMs for development and testing
 
 ## 🚀 Currently Exploring
 
-- **☁️ Advanced Cloud Architectures & Automation** – Experimenting with IaC (Infrastructure as Code), serverless computing, and cloud security best practices
-- **⚙️ Kubernetes and k3s** – Learning container orchestration, deploying scalable applications, and managing clusters for efficient resource utilization
 - **🔐 Network Security & Penetration Testing** – Diving deeper into cybersecurity practices and ethical hacking
 - **🤖 Home Automation & IoT** – Expanding my smart home setup and exploring new automation possibilities
 
@@ -134,7 +131,7 @@ I perform network installations, specifically **Ubiquiti installations**. Profes
   <a href="https://itzme.netlinksolutions.net">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:contact@itzme.netlinksolutions.net">
+  <a href="mailto:jorendk.technologies@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -146,5 +143,5 @@ I perform network installations, specifically **Ubiquiti installations**. Profes
 </div>
 
 <div align="center">
-  <i>"If you're into cloud computing, cybersecurity, or just want to talk tech, feel free to connect with me!"</i>
+  <i>"If you're into self-hosting, networking, or just want to talk tech, feel free to connect with me!"</i>
 </div>
