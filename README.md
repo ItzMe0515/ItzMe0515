@@ -67,7 +67,7 @@ I'm passionate about **self-hosting** various applications and services. I run a
 Complete smart home automation system controlling lights, sensors, solar panels, notifications, and family location tracking via Traccar
 
 ### 💾 **TrueNAS Scale**
-2x Seagate IronWolf 4TB in RAID 1 configuration hosting Immich (Photos) and Nextcloud (Drive)
+2x Seagate IronWolf 8TB in RAIDz1 configuration hosting Immich (Photos) and Nextcloud (Drive)
 
 ### 🔒 **Reverse Proxy**
 Nginx reverse proxy with SSL certificates through Cloudflare for secure external access
